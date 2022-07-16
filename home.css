@@ -1,0 +1,114 @@
+.home-container {
+  width: 100%;
+  left: 526px;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+ 
+}
+
+.home-pasted-image-main {
+  top: 250px;
+  left: 600px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+/* Procceed Button */
+.proceed-button {
+  top: 400px;
+  left: 530px;
+ 
+  color: #6200ff;
+  position: absolute;
+  font-size: 34px;
+
+  }
+
+.home-pasted-image-main {
+  top: 250px;
+  left: 600px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.home-image {
+  top: 326px;
+  left: 526px;
+  width: 113px;
+  height: 96px;
+  position: absolute;
+  object-fit: cover;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding-right: var(--dl-space-space-halfunit);
+}
+.home-pasted-image {
+  top: 400px;
+  left: 360px;
+  width: 602px;
+  height: 26px;
+  position: absolute;
+}
+.home-pasted-image1 {
+  top: 460px;
+  left: 320px;
+  width: 678px;
+  height: 101px;
+  position: absolute;
+}
+.home-pasted-image2 {
+  top: 65px;
+  right: 70px;
+  width: 136px;
+  height: 54px;
+  position: absolute;
+}
+.home-pasted-image3 {
+  top: 41px;
+  left: 30px;
+  position: absolute;
+}
+.home-pasted-image4 {
+  top: 69px;
+  left: 155px;
+  width: 362px;
+  height: 49px;
+  position: absolute;
+}
+
+/*Red Button*/
+.home-pasted-image5 {
+  top: 600px;
+  left: 530px;
+  width: 219px;
+  height: 74px;
+  position: absolute;
+ 
+}
+
+
+.home-pasted-image6 {
+  width: 108px;
+  height: 20px;
+}
+
+/* Arrow Button Right*/
+.home-pasted-image8 {
+  top: 620px;
+  left: 760px;
+  width: var(--dl-size-size-xsmall);
+  position: absolute;
+}
+.home-text {
+  top: 615px;
+  left: 570px;
+  color: #ffffff;
+  position: absolute;
+  font-size: 34px;
+}
